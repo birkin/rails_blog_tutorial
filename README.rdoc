@@ -26,5 +26,3 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
-
-(After <http://guides.rubyonrails.org/getting_started.html> 4.2 Say "Hello", Rails)
