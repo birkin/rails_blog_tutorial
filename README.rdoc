@@ -26,3 +26,7 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+
+
+(Through <http://guides.rubyonrails.org/getting_started.html>, section `5.1 Laying down the ground work` )
